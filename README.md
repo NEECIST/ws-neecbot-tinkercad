@@ -3,7 +3,7 @@
 
 
 
-Este workshop foi criado e apresentado virtualmente. O seu objetivo é simular facilmente o comportamento do NEECBot, ou seja andar com recurso a dois servos. 
+Este workshop foi criado e apresentado virtualmente. O seu objetivo é simular facilmente o comportamento do NEECBot, ou seja andar com recurso a dois servos e evitar colisão com obstáculos. 
 
 
 A velocidade das rodas é inversamente proporcional à distancia medida pelo sensor de Ultrassons. Após esta distância atingir um valor threshold, o robot para, mede as
