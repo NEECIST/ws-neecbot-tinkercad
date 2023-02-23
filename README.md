@@ -21,7 +21,7 @@ e continua a andar.
 
 ## Circuito
 
-![App Screenshot](https://csg.tinkercad.com/things/8L79pdWboON/t725.png?rev=1677112097852000000&s=&v=1&type=circuits)
+![App Screenshot](https://github.com/NEECIST/ws-neecbot-tinkercad/blob/main/Circuit.png?raw=true)
 
 
 ## Projeto no website Tinkercad
